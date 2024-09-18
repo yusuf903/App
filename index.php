@@ -78,7 +78,7 @@ $robots = [
 <body>
     <div class="sol">
         <h2><?= htmlspecialchars($robots[0]['isim']); ?></h2>
-        <img class="img" src="https://www.larsrobot.com/Files/lars-home.jpg" alt="dsadasdsa">
+        <img class="img" src="https://www.larsrobot.com/Files/lars-home.jpg" alt="dsdasdsadsaadasdsa">
         <div class=" aciklama">
             <p><h3>TÜRÜ:</h3><?= htmlspecialchars($robots[0]['turu']); ?></p>
         </div>
